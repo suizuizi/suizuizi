@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on "北京一技之长教育科技有限公司"
 
+- age: 35+ 
+
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=suizuizi&theme=radical)
 
 <!--
