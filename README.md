@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on "北京一技之长教育科技有限公司"
 
-- age: 35+ 
+- 🐰 35+ 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=suizuizi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
