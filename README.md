@@ -4,7 +4,7 @@
 - age: 35+ 
 
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=suizuizi&theme=radical)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=suizuizi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **suizuizi/suizuizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
