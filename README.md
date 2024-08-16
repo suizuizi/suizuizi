@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on "北京一技之长教育科技有限公司"
+- 🔭 I’m currently working on "BeiJing Edu"
 
 - 🐰 35+ 
 
